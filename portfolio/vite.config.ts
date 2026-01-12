@@ -10,8 +10,9 @@ export default defineConfig({
       input:{
         main: './index.html',
         about: './about.html',
-        blog_main: './blog_main.html',
+        blog: './blog_main.html',
         projects: './projects.html',
+        404: './404.html',
       }
     }
   }
