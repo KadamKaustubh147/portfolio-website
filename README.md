@@ -3,6 +3,7 @@
 - [ ] To add projects (image + link of github and deployment)
 - [ ] Write about page
 - [x] add mailto link
+- [ ] Style 404 page
 - [ ] change favicon
 - [ ] To add blogs (Deploying on VPS blog)
 - [ ] implementing markdown to html parser obviously usign a libary
